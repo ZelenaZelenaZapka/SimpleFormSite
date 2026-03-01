@@ -2,11 +2,4 @@ asgiref==3.11.1
 Django==6.0.2
 python-dotenv==1.2.1
 sqlparse==0.5.5
-<<<<<<< HEAD
-<<<<<<< HEAD
 dj-database-url
-=======
-dj-database-url
->>>>>>> 4d0b67f (req and set)
-=======
->>>>>>> b21ce28 (111)
